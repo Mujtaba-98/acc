@@ -21,8 +21,7 @@ Your profile contributions graph is a record of contributions you've made to rep
 
 ## Contributions that are counted
 
-### Issues, pull requests and discussions
-
+### Issues, pull requests and discussions.
 Issues, pull requests and discussions will appear on your contribution graph if they were opened in a standalone repository, not a fork.
 
 ### Commits
@@ -46,9 +45,6 @@ In addition, **at least one** of the following must be true:
 {% data reusables.pull_requests.pull_request_merges_and_contributions %}
 
 ### Commit was made less than 24 hours ago
-
-After making a commit that meets the requirements to count as a contribution, you may need to wait for up to 24 hours to see the contribution appear on your contributions graph.
-
 ### Your local Git commit email isn't connected to your account
 
 Commits must be made with an email address that is connected to your account on {% data variables.product.product_location %}{% ifversion fpt or ghec %}, or the {% data variables.product.prodname_dotcom %}-provided `noreply` email address provided to you in your email settings,{% endif %} in order to appear on your contributions graph.{% ifversion fpt or ghec %} For more information about `noreply` email addresses, see "[Setting your commit email address](/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address#about-commit-email-addresses)."{% endif %}
